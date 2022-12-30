@@ -1,2 +1,4 @@
 this is my new git file
 making some changes
+adding new lines
+git is distributed version control
